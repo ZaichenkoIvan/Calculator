@@ -30,7 +30,7 @@ public class ComplexExpression implements Expression {
         double right = this.right.evaluate(context);
 
         Calculation calculation = OperationCalculation.getCalculation(operation);
-        LOGGER.info("This operation " + operation + ". Of numbers: " + left + " " + right);
+        LOGGER.debug("This operation " + operation + ". Of numbers: " + left + " " + right);
         return calculation.calculate(left, right);
     }
 }
