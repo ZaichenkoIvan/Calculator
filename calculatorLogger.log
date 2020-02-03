@@ -1,0 +1,4 @@
+2020-02-03 19:55:59,810 INFO [main] u.m.e.ComplexExpression [ComplexExpression.java:33] This operation - *. Of numbers: 3.0 5.0
+2020-02-03 19:55:59,813 INFO [main] u.m.e.ComplexExpression [ComplexExpression.java:33] This operation - +. Of numbers: -20.0 15.0
+2020-02-03 19:56:13,937 INFO [main] u.m.e.ComplexExpression [ComplexExpression.java:33] This operation  *. Of numbers: 3.0 5.0
+2020-02-03 19:56:13,940 INFO [main] u.m.e.ComplexExpression [ComplexExpression.java:33] This operation  +. Of numbers: -20.0 15.0
